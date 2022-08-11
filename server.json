@@ -1,20 +1,52 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "venda",
-            "price": 14000,
-            "createdAt": "2022-08-11T04:27:23.443Z"
-        },
-        {
-            "id": 2,
-            "description": "Hambúrger",
-            "type": "outcome",
-            "category": "alimentação",
-            "price": 50,
-            "createdAt": "2022-08-11T04:17:23.443Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2022-08-11T04:27:23.443Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrger",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 50,
+      "createdAt": "2022-08-11T04:17:23.443Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-08-11T04:17:50.443Z"
+    },
+    {
+      "description": "Carro Tesla Modal X",
+      "category": "carro",
+      "price": 345000,
+      "type": "outcome",
+      "createdAt": "2022-08-11T19:36:44.066Z",
+      "id": 4
+    },
+    {
+      "description": "Compras no supermercado são luiz",
+      "category": "alimentação",
+      "price": 550,
+      "type": "outcome",
+      "createdAt": "2022-08-11T19:52:07.954Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurte de banana",
+      "category": "alimentação",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2022-08-11T19:57:45.900Z",
+      "id": 6
+    }
+  ]
 }
